@@ -193,6 +193,5 @@ Please submit bug reports and feature requests to the issue tracker on GitHub:
 
 [biodemo issue tracker](https://github.com/USERNAME/biodemo/issues)
 
-
 # Viewing your coverage online
 [![codecov](https://codecov.io/github/tgong1/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/tgong1/biodemo)
